@@ -1,5 +1,10 @@
 # VMC Renamer (GameCube) — Memcard GC Pro ⇆ GCMCE / FlipperMCE
 
+## Motivation
+
+While the [Memcard Pro GC](https://www.8bitmods.wiki/memcard-pro-gc) is a capable and well-engineered product, it remains a closed-source design.  
+This project was created out of appreciation for its functionality — but also from a desire to support **open-source alternatives** such as the [GCMCE](https://flippermce.github.io/gcmce/) by the FlipperMCE community.
+
 Convert Virtual Memory Card (VMC) directory/file names **in place** or **to another SD card** between two hard GameCube memory‑card emulators:
 
 - **MCGCP layout**  
