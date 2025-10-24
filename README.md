@@ -1,4 +1,4 @@
-# VMC Renamer (GameCube) — MCGCP ⇆ GCMCE
+# VMC Renamer (GameCube) — Memcard GC Pro ⇆ GCMCE / FlipperMCE
 
 Convert Virtual Memory Card (VMC) directory/file names **in place** or **to another SD card** between two hard GameCube memory‑card emulators:
 
@@ -11,6 +11,11 @@ Convert Virtual Memory Card (VMC) directory/file names **in place** or **to anot
   Example: `MemoryCards/GC/DL-DOL-GAFE-USA/DL-DOL-GAFE-USA-1.raw`
 
 This tool renames/copies only the **slot `-1.raw`** as present in the examples. All paths and examples are anonymized for public release.
+
+For reference and device documentation:
+
+- **GCMCE (FlipperMCE project)** — [https://flippermce.github.io/gcmce/](https://flippermce.github.io/gcmce/)
+- **Memcard Pro GC (8BitMods)** — [https://www.8bitmods.wiki/memcard-pro-gc](https://www.8bitmods.wiki/memcard-pro-gc)
 
 ---
 
@@ -119,3 +124,8 @@ python vmc_renamer.py --sd-root /media/GCMCE --rename-to-mcgcp \
 ## Acknowledgments
 
 Thanks to the broader GC tooling community and authors of the MCGCP/GCMCE devices for prior art and documentation. All trademarks are property of their respective owners.
+
+References:
+- [FlipperMCE GCMCE documentation](https://flippermce.github.io/gcmce/)
+- [8BitMods Memcard Pro GC documentation](https://www.8bitmods.wiki/memcard-pro-gc)
+
