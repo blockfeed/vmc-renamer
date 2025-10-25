@@ -1,4 +1,4 @@
-# VMC Renamer (GameCube) — Memcard GC Pro ⇆ GCMCE / FlipperMCE
+# VMC Renamer (GameCube) — Memcard Pro GC ⇆ GCMCE / FlipperMCE
 
 Convert Virtual Memory Card (VMC) directory/file names **in place** or **to another SD card** between two hard GameCube memory‑card emulators:
 
